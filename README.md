@@ -16,16 +16,12 @@ and scalable software solutions.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🤖 Passionate about building AI agents and LLM-powered applications.
-- 🧠 Exploring Generative AI, Agentic AI, RAG and NLP.
-- ⚙️ Interested in designing scalable backend systems and intelligent automation workflows.
-- 🔍 Enjoy experimenting with emerging AI technologies and turning ideas into practical solutions.
-- 🚀 Always learning, building and solving challenging problems.
-
----
-
+- 🤖 Build AI agents and LLM-powered applications to solve real-world problems.
+- 🧠 Work with Generative AI, Agentic AI, RAG pipelines and NLP.
+- ⚙️ Develop intelligent automation workflows and scalable backend systems.
+- 🔗 Integrate LLMs, APIs and modern AI frameworks to build practical solutions.
+- 🚀 Passionate about building reliable, impactful AI-driven products.
+- 
 ## 🛠️ Tech Stack
 
 **Languages**
