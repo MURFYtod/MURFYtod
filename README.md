@@ -64,17 +64,7 @@ React-based travel recommendation application featuring location-based filtering
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MURFYtod&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURFYtod&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
